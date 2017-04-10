@@ -1,0 +1,6 @@
+@define-mixin header $type, $color {
+  .mint-header.$(type) {
+    border: none;
+    background-color: $color;
+  }
+}

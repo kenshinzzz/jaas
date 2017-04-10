@@ -1,0 +1,19 @@
+{
+  "code": "0",
+  "message": "获取成功",
+  "data": {
+    "income": "200,000",
+    "incomeByTax": "160,000",
+    "date": "2017-02-27",
+    "dateData": [
+      5, 20, 36, 10, 10, 20
+    ],
+    "typeData": [
+      {"name": "salary", "value": "160000.00"},
+      {"name": "bonus", "value": "20000.00"},
+      {"name": "other", "value": "14000.00"},
+      {"name": "performance", "value": "11000.00"},
+      {"name": "little", "value": "10000.00"}
+    ]
+  }
+}

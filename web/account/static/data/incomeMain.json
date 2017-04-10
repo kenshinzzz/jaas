@@ -1,0 +1,21 @@
+{
+  "code": "0",
+  "message": "获取成功",
+  "data": {
+    "date": "2017-02-27",
+    "incomeData": [
+      11,
+      11,
+      15,
+      13,
+      12,
+      13,
+      10
+    ],
+    "lastIncome": [
+      {"id": 1, "date": "16日", "type": "salary", "amount": "10,000.00"},
+      {"id": 2, "date": "16日", "type": "salary", "amount": "10,000.00"},
+      {"id": 3, "date": "16日", "type": "salary", "amount": "10,000.00"}
+    ]
+  }
+}

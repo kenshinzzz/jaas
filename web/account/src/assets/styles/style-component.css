@@ -1,0 +1,25 @@
+.mint-header {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  color: #111111;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 16px;
+  height: 44px;
+  line-height: 1;
+  padding: 0 10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  border-bottom: solid 1px #c7c9ca;
+  z-index: 20;
+}
+
+.mint-button--primary {
+  color: #fff;
+  background-color: #108ee9
+}

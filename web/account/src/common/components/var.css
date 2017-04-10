@@ -1,0 +1,17 @@
+/*  Common
+   ========================================================================== */
+
+$font-mobile: "微软雅黑", Helvetica, Arial, sans-serif;
+
+/*  Color
+   ========================================================================== */
+$transparent: transparent;
+$color-white: #fff;
+/*  size
+   ========================================================================== */
+$font-size-small: 12px;
+$font-size-normal: $font-size-small + 2;
+$font-size-medium: $font-size-small + 4;
+$font-size-large: $font-size-small + 6;
+$font-size-huge: $font-size-small + 8;
+
