@@ -1,0 +1,75 @@
+{
+  "header":{
+    "responseCode":"00000",
+    "responseMessage": "sucess"
+  },
+  "imageSrc": "/static/image/product/product2.jpg",
+  "insCompanyCode": "taiping",
+  "insCompanyName": "太平保险",
+  "buyLimit": "20",
+  "maxValidDays": "30",
+  "insPlanList": [
+    {"policyPlanId": "1", "imageSrc": "/static/image/product/productPlan1.png", "policyPlanName": "基本计划", "policyPlanEngName": "Base Plan", "optionalBenefits": "Y", "upperAgeLImit": "65", "childrenAgeLimit": "18"},
+    {"policyPlanId": "2", "imageSrc": "/static/image/product/product1.jpg", "policyPlanName": "豪华计划", "policyPlanEngName": "Base Plan", "optionalBenefits": "N", "upperAgeLImit": "65", "childrenAgeLimit": "18"},
+    {"policyPlanId": "3", "imageSrc": "/static/image/product/product1.jpg", "policyPlanName": "至尊计划", "policyPlanEngName": "Base Plan", "optionalBenefits": "Y", "upperAgeLImit": "65", "childrenAgeLimit": "18"}
+  ],
+  "limitAreas": [
+    {"display": "美国", "value": "1"},
+    {"display": "澳大利亚", "value": "2"},
+    {"display": "加拿大", "value": "3"}
+  ],
+  "limitInsClass": [
+    {"display": "個人", "value": "I"},
+    {"display": "配偶", "value": "S"},
+    {"display": "子女", "value": "C"}
+  ],
+  "relationList" : [ {
+    "display" : "主要受保人",
+    "value" : "4"
+  }, {
+    "display" : "配偶",
+    "value" : "5"
+  }, {
+    "display" : "自己的子女",
+    "value" : "6"
+  }, {
+    "display" : "僱員",
+    "value" : "7"
+  }, {
+    "display" : "僱主",
+    "value" : "8"
+  }, {
+    "display" : "孫子或孫女",
+    "value" : "9"
+  }, {
+    "display" : "祖父/母或外祖父/母",
+    "value" : "10"
+  }, {
+    "display" : "配偶之外祖父/母",
+    "value" : "11"
+  }, {
+    "display" : "姻親（尤指岳父母或公婆）",
+    "value" : "12"
+  }, {
+    "display" : "合法監護人",
+    "value" : "13"
+  }, {
+    "display" : "父母",
+    "value" : "14"
+  }, {
+    "display" : "配偶之父或母",
+    "value" : "15"
+  }, {
+    "display" : "兄弟姐妹(同胞)",
+    "value" : "16"
+  }, {
+    "display" : "學生",
+    "value" : "17"
+  }, {
+    "display" : "老師",
+    "value" : "18"
+  }, {
+    "display" : "其他親戚",
+    "value" : "19"
+  } ]
+}

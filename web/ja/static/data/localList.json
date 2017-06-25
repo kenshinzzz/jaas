@@ -1,0 +1,21 @@
+{
+  "header":{
+    "responseCode":"00000",
+    "responseMessage": "sucess"
+  },
+  "totalRecord": 20,
+  "pageSize": 10,
+  "pageNo": 1,
+  "productList": [
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"},
+      {"id": "01", "code": "0001", "cover": "/static/img/default.png", "title": "旅遊意外險", "publishDate": "2017-02-04"}
+  ]
+}

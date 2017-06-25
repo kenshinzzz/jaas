@@ -1,0 +1,15 @@
+{
+  "header":{
+    "responseCode":"00000",
+    "responseMessage": "sucess"
+  },
+  "customerName": "测试用户",
+  "englishName": "Have a Test",
+  "gender": "FEMALE",
+  "birthDay": "1994-04-28",
+  "contactAddress": "澳门大教堂",
+  "contactTelephone": "13900000000",
+  "idType": "A",
+  "contactPostcode":"1111",
+  "idNumber": "510322219292374829"
+}

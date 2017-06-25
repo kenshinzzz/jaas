@@ -1,0 +1,38 @@
+{
+    "header":{
+        "responseCode":"00000",
+        "responseMessage": "sucess"
+    },
+    "data": {
+        "code": "GVG-030",
+        "publishDate": "2017-05-31",
+        "length": "123",
+        "title": "title",
+        "director": "director",
+        "urlDirector": "#",
+        "maker": "maker",
+        "urlMaker": "#",
+        "label": "GLORY QUEST",
+        "urlLabel": "#",
+        "serial": "serial",
+        "urlSerial": "#",
+        "genres": [
+            {"name": "single", "url": "#"}, {"name": "single2", "url": "#"}
+        ],
+        "rate": 9,
+        "casts": [
+            {"name": "cast1", "img": "", "url": "#"}, {"name": "cast2", "img": "", "url": "#"}
+        ],
+        "images": [
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"},
+            {"img": "", "bigImg": "/static/img/default.png"}
+        ]
+    }
+}

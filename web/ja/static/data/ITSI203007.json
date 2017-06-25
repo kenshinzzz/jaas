@@ -1,0 +1,14 @@
+{
+  "header": {
+    "responseCode": "00000",
+    "responseMessage": "sucess"
+  },
+  "lastName": "李",
+  "firstName": "大鹏",
+  "gender": "FEMALE",
+  "birthDay": "1994-04-28",
+  "idCardType": "BIR",
+  "idCardNo": "510322219292374829",
+  "mobileNumber": "13900000000",
+  "email":"1111@qq.com"
+}

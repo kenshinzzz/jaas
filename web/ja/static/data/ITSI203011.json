@@ -1,0 +1,67 @@
+{
+  "header": {
+    "responseCode": "00000",
+    "responseMessage": "sucess"
+  },
+  "companyCode": "123",
+  "policyStartDate": "2016-04-28",
+  "policyEndDate": "2016-05-28",
+  "policyPlanID": "闽信旅游保险",
+  "travelAreaID": "越南",
+  "policyCCY": "MOP",
+  "netPremium": "100.00",
+  "premium": "90.00",
+  "debitAccount": "123456",
+  "debitCCY": "MOP",
+  "payAmount": "123456",
+  "exchangeRate": "1.00",
+  "firstName": "大鹏",
+  "lastName": "黄",
+  "gender": "FEMALE",
+  "idCardType": "BIR",
+  "idCardNo": "510322219292374829",
+  "birthDay": "1994-04-28",
+  "mobileNumber": "13900000000",
+  "email": "1111@qq.com",
+  "address": "hbds",
+  "urgentContName": "",
+  "urgentContTel": "",
+  "optionalBenefits": "",
+  "insuredList": [{
+    "lastName": "李",
+    "firstName": "大鹏",
+    "gender": "FEMALE",
+    "birthDay": "1994-04-28",
+    "idCardType": "BIR",
+    "idCardNo": "510322219292374829",
+    "policyHolderRelationID": "13900000000",
+    "beneficiary": "1111@qq.com"
+  }, {
+    "lastName": "李",
+    "firstName": "大鹏",
+    "gender": "FEMALE",
+    "birthDay": "1994-04-28",
+    "idCardType": "BIR",
+    "idCardNo": "510322219292374829",
+    "policyHolderRelationID": "13900000000",
+    "beneficiary": "1111@qq.com"
+  },{
+    "lastName": "李",
+    "firstName": "大鹏",
+    "gender": "FEMALE",
+    "birthDay": "1994-04-28",
+    "idCardType": "BIR",
+    "idCardNo": "510322219292374829",
+    "policyHolderRelationID": "13900000000",
+    "beneficiary": "1111@qq.com"
+  },{
+    "lastName": "李",
+    "firstName": "大鹏",
+    "gender": "FEMALE",
+    "birthDay": "1994-04-28",
+    "idCardType": "BIR",
+    "idCardNo": "510322219292374829",
+    "policyHolderRelationID": "13900000000",
+    "beneficiary": "1111@qq.com"
+  }]
+}

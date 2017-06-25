@@ -1,0 +1,293 @@
+<nav class="navbar navbar-default navbar-fixed-top top-bar">
+      <div class="container">
+        <div class="navbar-header">
+        	<a href="https://avio.pw/cn" class="logo"></a>
+            <div class="btn-group pull-right visible-xs-inline" role="group" style="margin-top:8px;margin-right:8px;">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                  <span class="glyphicon glyphicon-globe"></span> 简体中文                  <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="https://avio.pw/en/movie/62m0">English</a></li>
+                    <li><a href="https://avio.pw/ja/movie/62m0">日本语</a></li>
+                    <li><a href="https://avio.pw/tw/movie/62m0">正體中文</a></li>
+                    <li><a href="https://avio.pw/cn/movie/62m0">简体中文</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+          <form class="navbar-form navbar-left fullsearch-form" action="https://avio.pw/cn/search" onsubmit="return false">
+            <div class="input-group">
+              <input name="keyword" class="form-control" placeholder="搜寻 识别码, 影片, 演员" type="text">
+              <span class="input-group-btn">
+                <button class="btn btn-default" type="submit">搜寻</button>
+              </span>
+            </div>
+          </form>
+          <ul class="nav navbar-nav">
+            <li><a href="https://avio.pw/cn">全部</a></li>
+			<li><a href="https://avio.pw/cn/released">已发布</a></li>
+			<li><a href="https://avio.pw/cn/popular">热门</a></li>
+            <li><a href="https://avio.pw/cn/actresses">女优</a></li>
+            <li><a href="https://avio.pw/cn/genre">类别</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-globe" style="font-size:12px;"></span> <span class="hidden-sm">简体中文</span> <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="https://avio.pw/en/movie/62m0">English</a></li>
+                <li><a href="https://avio.pw/ja/movie/62m0">日本语</a></li>
+                <li><a href="https://avio.pw/tw/movie/62m0">正體中文</a></li>
+                <li><a href="https://avio.pw/cn/movie/62m0">简体中文</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+<div class="row visible-xs-inline footer-bar">
+    <div class="col-xs-3 text-center">
+        <a id="menu" class="btn btn-default trigger-overlay"><i class="glyphicon glyphicon-align-justify"></i></a>
+    </div>
+        <div class="col-xs-6"></div>
+        <div class="col-xs-3 text-center">
+        <a id="back" class="btn btn-default" href="javascript:window.history.back()"><i class="glyphicon glyphicon-share-alt flipx"></i></a>
+    </div>
+</div>    <div class="container">
+        <h3>GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ</h3>
+        <div class="row movie">
+            <div class="col-md-9 screencap">
+                <a class="bigImage" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493pl.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ"><img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493pl.jpg"></a>
+            </div>
+            <div class="col-md-3 info">
+                <p><span class="header">识别码:</span> <span style="color:#CC0000;">GVG-493</span></p>
+                <p><span class="header">发行时间:</span> 2017-05-31</p>
+                                <p><span class="header">长度:</span> 122分钟</p>
+                                                <p><span class="header">导演:</span> <a href="https://avio.pw/cn/director/ay">三島六三郎</a></p>
+                                                <p class="header">制作商: </p>
+                <p><a href="https://avio.pw/cn/studio/9i">グローリークエスト</a></p>
+                                                <p class="header">发行商: </p>
+                <p><a href="https://avio.pw/cn/label/lt">GLORY QUEST</a></p>
+                                                <p class="header">系列:</p>
+                <p><a href="https://avio.pw/cn/series/2eg">しょう太くんのHなイタズラ</a></p>
+                                				<p class="header">类别:</p>
+				<p><span class="genre"><a href="https://avio.pw/cn/genre/e">巨乳</a></span><span class="genre"><a href="https://avio.pw/cn/genre/f">单体作品</a></span><span class="genre"><a href="https://avio.pw/cn/genre/3v">恶作剧</a></span><span class="genre"><a href="https://avio.pw/cn/genre/4d">运动</a></span><span class="genre"><a href="https://avio.pw/cn/genre/4o">高画质</a></span><span class="genre"><a href="https://avio.pw/cn/genre/4u">戏剧</a></span><span class="genre"><a href="https://avio.pw/cn/genre/4y">正太控</a></span></p>
+                            </div>
+        </div>
+        <div id="movie-share" class="row" style="margin:20px 0px 20px 0px;text-align:center;">
+            <a class="share-facebook"><span class="icon"></span></a>
+            <a class="share-twitter"><span class="icon"></span></a>
+            <a class="share-tumblr hidden-xxs"><span class="icon"></span></a>
+            <a class="share-reddit"><span class="icon"></span></a>
+            <a class="share-pinterest"><span class="icon"></span></a>
+            <a class="share-google_plusone_share hidden-xxs"><span class="icon"></span></a>
+            <a class="share-blogger hidden-xxs"><span class="icon"></span></a>
+            <a class="share-google hidden-xxs"><span class="icon"></span></a>
+            <a class="share-qrcode"><span class="icon"></span></a>
+            <a class="share-email"><span class="icon"></span></a>
+            <a class="share-favorites"><span class="icon"></span></a>
+        </div>
+
+        <h4>推荐</h4>
+        <div class="row hidden-xs ptb-10 text-center">
+        <div type="text/data-position" style="display:none" id="j_M_728x90-0">W3siaWQiOiJleG9jX2pfTV83Mjh4OTAiLCJhZHNwb3QiOiJqX01fNzI4eDkwIiwid2VpZ2h0IjoiMyIsImZjYXAiOmZhbHNlLCJzY2hlZHVsZSI6ZmFsc2UsIm1heFdpZHRoIjpmYWxzZSwibWluV2lkdGgiOiI3NjgiLCJ0aW1lem9uZSI6ZmFsc2UsImV4Y2x1ZGUiOmZhbHNlLCJkb21haW4iOmZhbHNlLCJjb2RlIjoiPHNjcmlwdCB0eXBlPVwidGV4dFwvamF2YXNjcmlwdFwiPlxyXG52YXIgYWRfaWR6b25lID0gXCI4MTMzMDhcIixcclxuXHQgYWRfd2lkdGggPSBcIjcyOFwiLFxyXG5cdCBhZF9oZWlnaHQgPSBcIjkwXCI7XHJcbjxcL3NjcmlwdD5cclxuPHNjcmlwdCB0eXBlPVwidGV4dFwvamF2YXNjcmlwdFwiIHNyYz1cImh0dHBzOlwvXC9hZHMuZXhvY2xpY2suY29tXC9hZHMuanNcIj48XC9zY3JpcHQ+XHJcbjxub3NjcmlwdD48YSBocmVmPVwiaHR0cDpcL1wvbWFpbi5leG9jbGljay5jb21cL2ltZy1jbGljay5waHA/aWR6b25lPTgxMzMwOFwiIHRhcmdldD1cIl9ibGFua1wiPjxpbWcgc3JjPVwiaHR0cHM6XC9cL3N5bmRpY2F0aW9uLmV4b2NsaWNrLmNvbVwvYWRzLWlmcmFtZS1kaXNwbGF5LnBocD9pZHpvbmU9ODEzMzA4Jm91dHB1dD1pbWcmdHlwZT03Mjh4OTBcIiB3aWR0aD1cIjcyOFwiIGhlaWdodD1cIjkwXCI+PFwvYT48XC9ub3NjcmlwdD4ifSx7ImlkIjoianVpY19qX01fNzI4eDkwIiwiYWRzcG90Ijoial9NXzcyOHg5MCIsIndlaWdodCI6IjMiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6ZmFsc2UsIm1pbldpZHRoIjoiNzY4IiwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxpZnJhbWUgYm9yZGVyPTAgZnJhbWVib3JkZXI9MCBtYXJnaW5oZWlnaHQ9MCBtYXJnaW53aWR0aD0wIHdpZHRoPTczNiBoZWlnaHQ9OTggc2Nyb2xsaW5nPW5vIGFsbG93dHJhbnNwYXJlbmN5PXRydWUgc3JjPVwvXC9hZHNlcnZlci5qdWljeWFkcy5jb21cL2Fkc2hvdy5waHA/YWR6b25lPTM3MTcwOD48XC9pZnJhbWU+In1d</div><data position="j_M_728x90-0"><iframe border="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/adshow.htm" frameborder="0" height="98" width="736"></iframe></data>        </div>
+
+        <div class="visible-xs-block pt-10 text-center">
+        <div type="text/data-position" style="display:none" id="j_M_300x100-1">W3siaWQiOiJidHNfal9NXzMwMHgxMDAiLCJhZHNwb3QiOiJqX01fMzAweDEwMCIsIndlaWdodCI6IjEiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6Ijc2OCIsIm1pbldpZHRoIjpmYWxzZSwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxhIGhyZWY9XCJodHRwczpcL1wvYnRzby5wd1wvdmlkZW9cLyVFMyU4MyU5QyVFMyU4MiVBNCVFMyU4MyVCMyVFNSVBNCVBNyVFNSVBNSVCRCVFMyU4MSU4RCVFMyU4MSU5NyVFMyU4MiU4NyVFMyU4MSU4NiVFNSVBNCVBQSVFMyU4MSU4RiVFMyU4MiU5MyVFMyU4MSVBRUglRTMlODElQUElRTMlODIlQTQlRTMlODIlQkYlRTMlODIlQkElRTMlODMlQTklMjAlRTYlOTYlODklRTglOTclQTQlRTMlODElQkYlRTMlODIlODZcIiB0YXJnZXQ9XCJfYmxhbmtcIj48aW1nIHNyYz1cIlwvYXBwXC9idHNcL1ZpZXdcL2ltZ1wvcDMwMDEwMC5wbmdcIj48XC9hPiJ9LHsiaWQiOiJleG9jX2pfTV8zMDB4MTAwIiwiYWRzcG90Ijoial9NXzMwMHgxMDAiLCJ3ZWlnaHQiOiIzIiwiZmNhcCI6ZmFsc2UsInNjaGVkdWxlIjpmYWxzZSwibWF4V2lkdGgiOiI3NjgiLCJtaW5XaWR0aCI6ZmFsc2UsInRpbWV6b25lIjpmYWxzZSwiZXhjbHVkZSI6ZmFsc2UsImRvbWFpbiI6ZmFsc2UsImNvZGUiOiI8c2NyaXB0PlxyXG5hZF9pZHpvbmUgPSBcIjEwMjYzMTBcIjtcclxuYWRfd2lkdGggPSBcIjMwMFwiO1xyXG5hZF9oZWlnaHQgPSBcIjEwMFwiO1xyXG5pZih0b3A9PT1zZWxmKSB2YXIgcD1kb2N1bWVudC5VUkw7IGVsc2UgdmFyIHA9ZG9jdW1lbnQucmVmZXJyZXI7dmFyIGR0PW5ldyBEYXRlKCkuZ2V0VGltZSgpO1xyXG52YXIgZXhvRG9jdW1lbnRQcm90b2NvbCA9IChkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCAhPSBcImh0dHBzOlwiICYmIGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sICE9IFwiaHR0cDpcIikgPyBcImh0dHBzOlwiIDogZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2w7XHJcbmlmKHR5cGVvZihhZF9zdWIpID09ICd1bmRlZmluZWQnKSB2YXIgYWRfc3ViID0gXCJcIjtcclxuaWYodHlwZW9mKGFkX3RhZ3MpID09ICd1bmRlZmluZWQnKSB2YXIgYWRfdGFncyA9IFwiXCI7XHJcbnZhciBhZF90eXBlID0gYWRfd2lkdGggKyAneCcgKyBhZF9oZWlnaHQ7XHJcbmlmKGFkX3dpZHRoID09ICcxMDAlJyAmJiBhZF9oZWlnaHQgPT0gJzEwMCUnKSBhZF90eXBlID0gJ2F1dG8nO1xyXG52YXIgYWRfc2NyZWVuX3Jlc29sdXRpb24gPSBzY3JlZW4ud2lkdGggKyAneCcgKyBzY3JlZW4uaGVpZ2h0O1xyXG5kb2N1bWVudC53cml0ZSgnPGlmcmFtZSBmcmFtZWJvcmRlcj1cIjBcIiBzY3JvbGxpbmc9XCJub1wiIHdpZHRoPVwiJyArIGFkX3dpZHRoICsgJ1wiIGhlaWdodD1cIicgKyBhZF9oZWlnaHQgKyAnXCIgc3JjPVwiJyArIGV4b0RvY3VtZW50UHJvdG9jb2wgKyAnXC9cL3N5bmRpY2F0aW9uLmV4b2NsaWNrLmNvbVwvYWRzLWlmcmFtZS1kaXNwbGF5LnBocD9pZHpvbmU9JyArIGFkX2lkem9uZSArICcmdHlwZT0nICsgYWRfdHlwZSArICcmcD0nICsgZXNjYXBlKHApICsgJyZkdD0nICsgZHQgKyAnJnN1Yj0nICsgYWRfc3ViICsgJyZ0YWdzPScgKyBhZF90YWdzICsgJyZzY3JlZW5fcmVzb2x1dGlvbj0nICsgYWRfc2NyZWVuX3Jlc29sdXRpb24gKyAnXCI+PFwvaWZyYW1lPicpO1xyXG48XC9zY3JpcHQ+In0seyJpZCI6ImphdnVfal9NXzMwMHgxMDAiLCJhZHNwb3QiOiJqX01fMzAweDEwMCIsIndlaWdodCI6IjIiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6Ijc2OCIsIm1pbldpZHRoIjpmYWxzZSwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxhIGhyZWY9XCJodHRwczpcL1wvYXZzby5wd1wiIHRhcmdldD1cIl9ibGFua1wiPjxpbWcgc3JjPVwiXC9hcHBcL2phdnVcL1ZpZXdcL2ltZ1wvYmFubmVyLjYwMHgxMDAuanBnXCIgd2lkdGg9XCIzMDBcIiBoZWlnaHQ9XCI1MFwiPjxcL2E+In0seyJpZCI6Imp1aWNfal9NXzMwMHgxMDAiLCJhZHNwb3QiOiJqX01fMzAweDEwMCIsIndlaWdodCI6IjUiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6Ijc2OCIsIm1pbldpZHRoIjpmYWxzZSwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxpZnJhbWUgYm9yZGVyPTAgZnJhbWVib3JkZXI9MCBtYXJnaW5oZWlnaHQ9MCBtYXJnaW53aWR0aD0wIHdpZHRoPTMwMCBoZWlnaHQ9MTAwIHNjcm9sbGluZz1ubyBhbGxvd3RyYW5zcGFyZW5jeT10cnVlIHNyYz1cL1wvYWRzZXJ2ZXIuanVpY3lhZHMuY29tXC9hZHNob3cucGhwP2Fkem9uZT00NTE3Mzk+PFwvaWZyYW1lPiJ9LHsiaWQiOiJ3YXZfal9NXzMwMHgxMDAiLCJhZHNwb3QiOiJqX01fMzAweDEwMCIsIndlaWdodCI6IjIiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6Ijc2OCIsIm1pbldpZHRoIjpmYWxzZSwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxhIGhyZWY9XCJodHRwczpcL1wvYXZ4by5wd1wvXCIgdGFyZ2V0PVwiX2JsYW5rXCI+PGltZyBzcmM9XCJcL2FwcFwvd2F2XC9WaWV3XC9pbWdcL2Jhbm5lci42MDB4MTAwLmpwZ1wiIHdpZHRoPVwiMzAwXCIgaGVpZ2h0PVwiNTBcIj48XC9hPiJ9XQ==</div>        </div>
+
+                <h4>演员</h4>
+        <div id="avatar-waterfall">
+                        <a class="avatar-box" href="https://avio.pw/cn/star/pnq">
+				<div class="photo-frame">
+                    <img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/saitou_miyu.jpg" title="">
+                </div>
+				<span>斉藤みゆ</span>
+			</a>
+                    </div>
+
+                <div class="clearfix"></div>
+                <h4>样品图像</h4>
+        <div id="sample-waterfall">
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-1.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 1">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-1.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-2.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 2">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-2.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-3.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 3">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-3.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-4.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 4">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-4.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-5.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 5">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-5.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-6.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 6">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-6.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-7.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 7">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-7.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-8.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 8">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-8.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-9.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 9">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-9.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-10.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 10">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-10.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-11.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 11">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-11.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-12.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 12">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-12.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-13.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 13">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-13.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-14.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 14">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-14.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-15.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 15">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-15.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-16.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 16">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-16.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-17.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 17">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-17.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-18.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 18">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-18.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-19.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 19">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-19.jpg">
+                </div>
+			</a>
+            			<a class="sample-box" href="https://jp.netcdn.space/digital/video/13gvg00493/13gvg00493jp-20.jpg" title="GVG-493 ボイン大好きしょう太くんのHなイタズラ 斉藤みゆ - 样品图像 - 20">
+                <div class="photo-frame">
+				<img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/13gvg00493-20.jpg">
+                </div>
+			</a>
+                    </div>
+                <div class="clearfix"></div>
+        <div class="visible-xs-block">
+            <h4>推荐</h4>
+            <div class="row ptb-10 text-center">
+	        <div type="text/data-position" style="display:none" id="j_M_300x250-2">W3siaWQiOiJleG9jX2pfTV8zMDB4MjUwIiwiYWRzcG90Ijoial9NXzMwMHgyNTAiLCJ3ZWlnaHQiOiIyIiwiZmNhcCI6ZmFsc2UsInNjaGVkdWxlIjpmYWxzZSwibWF4V2lkdGgiOiI3NjgiLCJtaW5XaWR0aCI6ZmFsc2UsInRpbWV6b25lIjpmYWxzZSwiZXhjbHVkZSI6ZmFsc2UsImRvbWFpbiI6ZmFsc2UsImNvZGUiOiI8c2NyaXB0PlxyXG5hZF9pZHpvbmUgPSBcIjEwMzEwNDJcIjtcclxuYWRfd2lkdGggPSBcIjMwMFwiO1xyXG5hZF9oZWlnaHQgPSBcIjI1MFwiO1xyXG5pZih0b3A9PT1zZWxmKSB2YXIgcD1kb2N1bWVudC5VUkw7IGVsc2UgdmFyIHA9ZG9jdW1lbnQucmVmZXJyZXI7dmFyIGR0PW5ldyBEYXRlKCkuZ2V0VGltZSgpO1xyXG52YXIgZXhvRG9jdW1lbnRQcm90b2NvbCA9IChkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCAhPSBcImh0dHBzOlwiICYmIGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sICE9IFwiaHR0cDpcIikgPyBcImh0dHBzOlwiIDogZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2w7XHJcbmlmKHR5cGVvZihhZF9zdWIpID09ICd1bmRlZmluZWQnKSB2YXIgYWRfc3ViID0gXCJcIjtcclxuaWYodHlwZW9mKGFkX3RhZ3MpID09ICd1bmRlZmluZWQnKSB2YXIgYWRfdGFncyA9IFwiXCI7XHJcbnZhciBhZF90eXBlID0gYWRfd2lkdGggKyAneCcgKyBhZF9oZWlnaHQ7XHJcbmlmKGFkX3dpZHRoID09ICcxMDAlJyAmJiBhZF9oZWlnaHQgPT0gJzEwMCUnKSBhZF90eXBlID0gJ2F1dG8nO1xyXG52YXIgYWRfc2NyZWVuX3Jlc29sdXRpb24gPSBzY3JlZW4ud2lkdGggKyAneCcgKyBzY3JlZW4uaGVpZ2h0O1xyXG5kb2N1bWVudC53cml0ZSgnPGlmcmFtZSBmcmFtZWJvcmRlcj1cIjBcIiBzY3JvbGxpbmc9XCJub1wiIHdpZHRoPVwiJyArIGFkX3dpZHRoICsgJ1wiIGhlaWdodD1cIicgKyBhZF9oZWlnaHQgKyAnXCIgc3JjPVwiJyArIGV4b0RvY3VtZW50UHJvdG9jb2wgKyAnXC9cL3N5bmRpY2F0aW9uLmV4b2NsaWNrLmNvbVwvYWRzLWlmcmFtZS1kaXNwbGF5LnBocD9pZHpvbmU9JyArIGFkX2lkem9uZSArICcmdHlwZT0nICsgYWRfdHlwZSArICcmcD0nICsgZXNjYXBlKHApICsgJyZkdD0nICsgZHQgKyAnJnN1Yj0nICsgYWRfc3ViICsgJyZ0YWdzPScgKyBhZF90YWdzICsgJyZzY3JlZW5fcmVzb2x1dGlvbj0nICsgYWRfc2NyZWVuX3Jlc29sdXRpb24gKyAnXCI+PFwvaWZyYW1lPicpO1xyXG48XC9zY3JpcHQ+In0seyJpZCI6Imp1aWNfal9NXzMwMHgyNTAiLCJhZHNwb3QiOiJqX01fMzAweDI1MCIsIndlaWdodCI6IjMiLCJmY2FwIjpmYWxzZSwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6Ijc2OCIsIm1pbldpZHRoIjpmYWxzZSwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxpZnJhbWUgYm9yZGVyPTAgZnJhbWVib3JkZXI9MCBtYXJnaW5oZWlnaHQ9MCBtYXJnaW53aWR0aD0wIHdpZHRoPTMwOCBoZWlnaHQ9MjU4IHNjcm9sbGluZz1ubyBhbGxvd3RyYW5zcGFyZW5jeT10cnVlIHNyYz1cL1wvYWRzZXJ2ZXIuanVpY3lhZHMuY29tXC9hZHNob3cucGhwP2Fkem9uZT0zNzE3MjY+PFwvaWZyYW1lPiJ9XQ==</div>	        </div>
+        </div>
+		<div class="row visible-xs-block">
+            <div class="col-xs-6 text-center">
+                <a href="https://btso.pw/search/GVG-493" class="btn btn-lg btn-primary" target="_blank"><span class="glyphicon glyphicon-save"></span> 下载</a>
+            </div>
+            <div class="col-xs-6 text-center">
+                <a href="https://btso.pw/video/GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86" class="btn btn-lg btn-warning" target="_blank"><span class="glyphicon glyphicon-play"></span> 播放</a>
+            </div>
+        </div>
+        <div class="hidden-xs">
+            <h4>下载</h4>
+            <div class="row ptb-10 text-center">
+                <a href="https://btso.pw/search/GVG-493" target="_blank"><img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/download_zh.png"></a>
+            </div>
+        </div>
+        <div class="hidden-xs">
+            <h4>推荐</h4>
+            <div class="row ptb-20 text-center">
+	        <div type="text/data-position" style="display:none" id="j_P_728x90-3">W3siaWQiOiJqYXZ1X2pfUF83Mjh4OTAiLCJhZHNwb3QiOiJqX1BfNzI4eDkwIiwid2VpZ2h0IjoiMSIsImZjYXAiOmZhbHNlLCJzY2hlZHVsZSI6ZmFsc2UsIm1heFdpZHRoIjpmYWxzZSwibWluV2lkdGgiOmZhbHNlLCJ0aW1lem9uZSI6ZmFsc2UsImV4Y2x1ZGUiOmZhbHNlLCJkb21haW4iOmZhbHNlLCJjb2RlIjoiPGEgaHJlZj1cImh0dHBzOlwvXC9hdnNvLnB3XCIgdGFyZ2V0PVwiX2JsYW5rXCI+PGltZyBzcmM9XCJcL2FwcFwvamF2dVwvVmlld1wvaW1nXC9iNzI4OTAuanBnXCIgd2lkdGg9XCI3MjhcIiBoZWlnaHQ9XCI5MFwiIGJvcmRlcj1cIjBcIj48XC9hPiJ9LHsiaWQiOiJ3YXZfal9QXzcyOHg5MCIsImFkc3BvdCI6ImpfUF83Mjh4OTAiLCJ3ZWlnaHQiOiIzIiwiZmNhcCI6ZmFsc2UsInNjaGVkdWxlIjpmYWxzZSwibWF4V2lkdGgiOmZhbHNlLCJtaW5XaWR0aCI6ZmFsc2UsInRpbWV6b25lIjpmYWxzZSwiZXhjbHVkZSI6ZmFsc2UsImRvbWFpbiI6ZmFsc2UsImNvZGUiOiI8YSBocmVmPVwiaHR0cHM6XC9cL2F2eG8ucHdcIiB0YXJnZXQ9XCJfYmxhbmtcIj48aW1nIHNyYz1cIlwvYXBwXC93YXZcL1ZpZXdcL2ltZ1wvYjcyODkwLmpwZ1wiIHdpZHRoPVwiNzI4XCIgaGVpZ2h0PVwiOTBcIiBib3JkZXI9XCIwXCI+PFwvYT4ifV0=</div><data position="j_P_728x90-3"><a href="https://avxo.pw/" target="_blank"><img src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/b72890.jpg" height="90" border="0" width="728"></a></data>	        </div>
+        </div>
+    </div>
+<div type="text/data-position" style="display:none" id="j_POPUNDER-4">W3siaWQiOiJhZHN0X2pfUE9QVU5ERVIiLCJhZHNwb3QiOiJqX1BPUFVOREVSIiwid2VpZ2h0IjoiNSIsImZjYXAiOiIyIiwic2NoZWR1bGUiOmZhbHNlLCJtYXhXaWR0aCI6ZmFsc2UsIm1pbldpZHRoIjoiNzY4IiwidGltZXpvbmUiOmZhbHNlLCJleGNsdWRlIjpmYWxzZSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxzY3JpcHQgdHlwZT0ndGV4dFwvamF2YXNjcmlwdCcgc3JjPSdodHRwczpcL1wvcGwxMTA1MjUucHVodG1sLmNvbVwvNzBcLzgyXC85Y1wvNzA4MjljMzgyMTZlMWMwNDYxNmFkYjQ2NzJlZGEzNDIuanMnPjxcL3NjcmlwdD4ifSx7ImlkIjoiY2xpY19qX1BPUFVOREVSIiwiYWRzcG90Ijoial9QT1BVTkRFUiIsIndlaWdodCI6IjYiLCJmY2FwIjoiMiIsInNjaGVkdWxlIjpmYWxzZSwibWF4V2lkdGgiOmZhbHNlLCJtaW5XaWR0aCI6ZmFsc2UsInRpbWV6b25lIjpmYWxzZSwiZXhjbHVkZSI6ZmFsc2UsImRvbWFpbiI6ZmFsc2UsImNvZGUiOiI8c2NyaXB0IHR5cGU9XCJ0ZXh0XC9qYXZhc2NyaXB0XCIgc3JjPVwiXC9cL3h4bGFyZ2Vwb3AuY29tXC9hcHUucGhwP3pvbmVpZD0zNjkwODlcIj48XC9zY3JpcHQ+In0seyJpZCI6ImV4b2Nfal9QT1BVTkRFUiIsImFkc3BvdCI6ImpfUE9QVU5ERVIiLCJ3ZWlnaHQiOiIzIiwiZmNhcCI6IjIiLCJzY2hlZHVsZSI6ZmFsc2UsIm1heFdpZHRoIjpmYWxzZSwibWluV2lkdGgiOiI3NjgiLCJ0aW1lem9uZSI6ZmFsc2UsImV4Y2x1ZGUiOmZhbHNlLCJkb21haW4iOmZhbHNlLCJjb2RlIjoiPHNjcmlwdCBzcmM9XCJcL1wvc3luZGljYXRpb24uZXhvY2xpY2suY29tXC9zcGxhc2gucGhwP2lkem9uZT0xMDA4MDk0JnR5cGU9M1wiPjxcL3NjcmlwdD4ifSx7ImlkIjoiZXhvbV9qX1BPUFVOREVSIiwiYWRzcG90Ijoial9QT1BVTkRFUiIsIndlaWdodCI6IjQiLCJmY2FwIjoiMiIsInNjaGVkdWxlIjpmYWxzZSwibWF4V2lkdGgiOiI3NjgiLCJtaW5XaWR0aCI6ZmFsc2UsInRpbWV6b25lIjpmYWxzZSwiZXhjbHVkZSI6ZmFsc2UsImRvbWFpbiI6ZmFsc2UsImNvZGUiOiI8c2NyaXB0IHNyYz1cIlwvXC9zeW5kaWNhdGlvbi5leG9jbGljay5jb21cL3NwbGFzaC5waHA/aWR6b25lPTEwMjYzMTImdHlwZT0xMVwiPjxcL3NjcmlwdD5cclxuPHNjcmlwdD5cclxuJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7XHJcbiAgICBpZiAodHlwZW9mIGV4b1VybCAhPSBcInVuZGVmaW5lZFwiKSB7XHJcbiAgICAgICAgZXhvVXJsID0gZXhvVXJsLnJlcGxhY2UoJ2h0dHA6XC9cLycsICdodHRwczpcL1wvJyk7XHJcbiAgICB9XHJcbiAgICAkKFwiYVwiKS5iaW5kKFwiY2xpY2tcIiwgZnVuY3Rpb24oZXZlbnQpIHtcclxuICAgICAgICBleG9Nb2JpbGVQb3AoKTtcclxuICAgICAgICAkKHRoaXMpLnVuYmluZChcImNsaWNrXCIpO1xyXG4gICAgfSk7XHJcbn0pO1xyXG48XC9zY3JpcHQ+In0seyJpZCI6Imp1aWNfal9QT1BVTkRFUiIsImFkc3BvdCI6ImpfUE9QVU5ERVIiLCJ3ZWlnaHQiOiIyIiwiZmNhcCI6IjEiLCJzY2hlZHVsZSI6ZmFsc2UsIm1heFdpZHRoIjpmYWxzZSwibWluV2lkdGgiOiI3NjgiLCJ0aW1lem9uZSI6ZmFsc2UsImV4Y2x1ZGUiOlsiemgtY24iXSwiZG9tYWluIjpmYWxzZSwiY29kZSI6IjxzY3JpcHQgdHlwZT1cInRleHRcL2phdmFzY3JpcHRcIj5qdWljeV9jb2RlPSc3NDU0MzN6MnQyNTZyMnEydzI4NDYzODQnOzxcL3NjcmlwdD5cclxuPHNjcmlwdCB0eXBlPVwidGV4dFwvamF2YXNjcmlwdFwiIHNyYz1cIlwvXC9qcy5qdWljeWFkcy5jb21cL2phYy5qc1wiIGNoYXJzZXQ9XCJ1dGYtOFwiPjxcL3NjcmlwdD4ifV0=</div><data position="j_POPUNDER-4"><script type="text/javascript" src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/apu.js"></script></data>
+<!-- Modal -->
+<div class="modal fade" id="advertisingModal" tabindex="-1" role="dialog" aria-labelledby="advertisingModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="advertisingModalLabel">Advertising</h4>
+      </div>
+      <div class="modal-body">
+	    <p>Please contact following agents for advertising on AVMOO</p>
+	    <p><a href="https://www.exoclick.com/?login=james666" target="_blank" style="color: #D80456;">ExoClick</a> / <a href="https://manage.juicyads.com/juicysites.php?id=128293" target="_blank" style="color: #D80456;">JuicyAds</a> / <a href="http://www.clickadu.com/?rfd=0l1" target="_blank" style="color: #D80456;">ClickADu</a></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer hidden-xs">
+	<div class="container">
+<p><a href="https://avio.pw/cn/terms">Terms</a> / <a href="https://avio.pw/cn/privacy">Privacy</a> / <a href="https://avio.pw/cn/usc">2257</a> / <a href="http://www.rtalabel.org/" target="_blank" rel="external nofollow">RTA</a> / <a href="#advertisingModal" role="button" data-toggle="modal">Advertising</a> / <a class="contactus" href="javascript:;" role="button" data-toggle="modal">Contact</a> / <a href="https://tellme.pw/avmoo" target="_blank">Guide</a> | Links: <a href="https://avio.pw/" target="_blank">AVMOO</a> / <a href="https://avso.pw/" target="_blank">AVSOX</a> / <a href="https://avxo.pw/" target="_blank">AVMEMO</a><br>Copyright
+ © 2013 AVMOO. All Rights Reserved. All other trademarks and copyrights
+are the property of their respective holders. The reviews and comments
+expressed at or through this website are the opinions of the individual
+author and do not reflect the opinions or views of AVMOO. AVMOO is not
+responsible for the accuracy of any of the information supplied here.</p>
+	</div>
+</footer>
+
+<div class="visible-xs-block footer-bar-placeholder"></div>
+
+<!-- ////////////////////////////////////////////////// -->
+<div class="overlay overlay-contentscale">
+    <nav>
+        <ul>
+            <li>
+            <form class="fullsearch-form" action="https://avio.pw/cn/search" onsubmit="return false">
+               <div class="input-group col-xs-offset-2 col-xs-8">
+                  <input name="keyword" class="form-control" placeholder="搜寻 识别码, 影片, 演员" type="text">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">搜寻</button>
+                  </span>
+               </div>
+            </form>
+            </li>
+            <li><a href="https://avio.pw/cn/released">已发布</a></li>
+            <li><a href="https://avio.pw/cn/popular">热门</a></li>
+            <li><a href="https://avio.pw/cn/actresses">女优</a></li>
+            <li><a href="https://avio.pw/cn/genre">类别</a></li>
+        </ul>
+    </nav>
+    <div class="row overlay-close"><i class="glyphicon glyphicon-remove" style="color:#fff;font-size: 24px;margin:30px;"></i></div>
+</div>
+<script src="GVG-493%20%E3%83%9C%E3%82%A4%E3%83%B3%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E5%A4%AA%E3%81%8F%E3%82%93%E3%81%AEH%E3%81%AA%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%20%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86%20-%20AVMOO_files/app.js"></script><!--Modal--><div class="modal fade" id="qrshareModal" tabindex="-1" role="dialog" aria-labelledby="qrshareModalLabel" aria-hidden="true"><div class="modal-dialog modal-sm"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><h4 class="modal-title" id="qrshareModalLabel">QR Code</h4></div><div class="modal-body"><p></p><center id="qrshareImage" title="https://avio.pw/cn/movie/62m0"><canvas width="200" height="200" style="display: none ! important;"></canvas><img alt="Scan me!" style="display: block ! important;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAIMklEQVR4nO2ZMZLFMAxCff9LZxvX+zMjk4dkmFEpCyRIk7XWeqaWO2h91ffp+35UOAFZuYPWV32fvu9HhROQlTtofdX36ft+VDgBWbmD1ld9n77vR4UTkJU7aH3V9+n7flQ4AVm5g9ZXfZ++70eFE5CVO2h91ffp+35Ucw3WvZ8utX4aCUjzfrrU+mkkIM376VLrp5GANO+nS62fRgLSvJ8utX4aCUjzfrrU+mkkIM376VLrp5GANO+nS62fhjwgOVANt/N3908CAuN2/u7+SUBg3M7f3T8JCIzb+bv7JwGBcTt/d/8kIDBu5+/unwQExu383f2TgMC4nb+7f64PCM2f1ufOj/ZPApKAWPOj/ZOAJCDW/Gj/JCAJiDU/2j8JSAJizY/2TwKSgFjzo/2TgCQg1vxo/yQgCYg1P9o/1wdE/T69H1qf+34SkCK6G4DW576fBKSI7gag9bnvJwEporsBaH3u+0lAiuhuAFqf+34SkCK6G4DW576fBKSI7gag9bnvJwEporsBaH3u+5EHhAZ9IFqfu8HckYAU+2kDJCBaJCDFftoACYgWCUixnzZAAqJFAlLspw2QgGiRgBT7aQMkIFokIMV+2gAJiBYJSLGfNkACokU5IN2ruqD01/qHFE5AVrRBbu8fUjgBWdEGub1/SOEEZEUb5Pb+IYUTkBVtkNv7hxROQFa0QW7vH1I4AVnRBrm9f0jhBGRFG+T2/hH1cwsXQx1QNT91/w3IFv5BAhJkC/8gAQmyhX+QgATZwj9IQIJs4R8kIEG28A8SkCBb+AcJSLCqJlDWC/LhJzQ4HUC6f7/BB2GqAd35VflP799v8EGYakB3flX+0/v3G3wQphrQnV+V//T+/QYfhKkGdOdX5T+9f7/BB2GqAd35VflP799v8EGYakB3flX+0/v3G3wQphrQnV+V//T+5xn+o9A9ANX31bid//MkIAmIcH53/s+TgCQgwvnd+T9PApKACOd35/88CUgCIpzfnf/zJCAJiHB+d/7Pk4AkIML53fk/TwKSgAjnd+f/PD8CUjXAdAO697tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/2QB1ALpA9A97tXi/38nCIUoIb6gPR8ur87EpAERNrfHQlIAiLt744EJAGR9ndHApKASPu7IwFJQKT93ZGAJCDS/u5IQBIQaX93lAOiPgB94Co/94DR1f1+a60EhDQIzY/W736/tVYCQhqE5kfrd7/fWisBIQ1C86P1u99vrZWAkAah+dH63e+31kpASIPQ/Gj97vdbayUgpEFofrR+9/uttRIQ0iA0P1q/+/12+S7I3YD0AdX66ffp/v1GAuKqj9ZPv0/37zcSEFd9tH76fbp/v5GAuOqj9dPv0/37jQTEVR+tn36f7t9vJCCu+mj99Pt0/34jAXHVR+un36f79xsJiKs+Wj/9Pt2/37jX4PQB1PzV+6f1fTQ/AVHpp/mr90/r+2h+AqLST/NX75/W99H8BESln+av3j+t76P5CYhKP81fvX9a30fzExCVfpq/ev+0vo/mJyAq/TR/9f5pfR/NT0BU+mn+6v3T+j6a77vA7u93n0+G18F/CYj4/e7zE5AERPp+9/kJSAIifb/7/AQkAZG+331+ApKASN/vPj8BSUCk73efn4AkINL3u89PQOCAHBJgW7frV+9Pvf89IwFJQDyrup8TSEASENuq7ucEEpAExLaq+zmBBCQBsa3qfk4gAUlAbKu6nxNIQBIQ26ru5wQSkATEtqr7OQE+BSDUB3I3yBcGq8yn+T1PApKAJCD/c/xkiikSkATkJ8dPppgiAUlAfnL8ZIopEpAE5CfHT6aYIgFJQH5y/GSKKRKQBOQnx0+mmCIBSUBecNQemawX4vEDVPjR+t37DxVvZFWpD6SGu373/kPFG1lV6gOp4a7fvf9Q8UZWlfpAarjrd+8/VLyRVaU+kBru+t37DxVvZFWpD6SGu373/kPFG1lV6gOp4a7fvf9Q8UZWlfpAarjrd+8/VL4G+QW1wWkDqEHzoz8ACQj8Pm1Ad34JiBgJSA00vwREjASkBppfAiJGAlIDzS8BESMBqYHml4CIkYDUQPNLQMRIQGqg+Y0PyCECmAHV/FPs/avv7xm+BqvOp/mn2PtX398zfA1WnU/zT7H3r76/Z/garDqf5p9i7199f8/wNVh1Ps0/xd6/+v6e4Wuw6nyaf4q9f/X9PcPXYNX5NP8Ue//q+3uGr8Gq82n+Kfb+1ff3DF+DVefTC3bfz+38XpavwOp8Nf/u+7md38vyFVidr+bffT+383tZvgKr89X8u+/ndn4vy1dgdb6af/f93M7vZfkKrM5X8+++n9v5vSxfgdX5av7d93M7v5flK7A6X82/+35u5/eyfAVW56v7u8NdP+2fBMTcIGq466f9k4CYG0QNd/20fxIQc4Oo4a6f9k8CYm4QNdz10/5JQMwNooa7fto/CYi5QdRw10/7JwExN4ga7vpp/5QDQuOjBckOpNZP66PnH+KXgLgekOY/fb8JSLGfPiDNf/p+E5BiP31Amv/0/SYgxX76gDT/6ftNQIr99AFp/tP3m4AU++kD0vyn7zcBKfbTB6T5T99vOSDdq7ogun/6fpoUTmCsAdwNNF3focIJjDWAu4Gm6ztUOIGxBnA30HR9hwonMNYA7gaaru9Q4QTGGsDdQNP1HSqcwFgDuBtour5DhRMYawB3A03Xd6hwAmMN4G6g6fpO1B+oJ/Ujwv9+iAAAAABJRU5ErkJggg=="></center><p></p></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div><div class="modal fade" id="contactUsModal" tabindex="-1" role="dialog" aria-labelledby="contactUsModalLabel" aria-hidden="true"><div class="modal-dialog modal-md"><form id="contactUsModalForm" role="form" action="https://avio.pw/contact/create" method="post" novalidate="novalidate"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><h4 class="modal-title" id="contactUsModalLabel">Contact Us</h4></div><div class="modal-body"><div class="form-group"><label>Email</label> <input name="email" class="form-control" required="" aria-required="true" type="email"></div><div class="form-group"><label>Message</label> <textarea name="message" class="form-control" rows="5" required="" aria-required="true"></textarea></div><div class="form-group"><label>Captcha</label><p><img id="contactUsCaptcha" style="cursor:pointer"></p><input name="captcha" class="form-control" required="" aria-required="true"></div></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button> <button type="submit" class="btn btn-primary">Submit</button></div></div></form></div></div>

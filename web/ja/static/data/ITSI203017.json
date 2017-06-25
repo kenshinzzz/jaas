@@ -1,0 +1,32 @@
+{
+    "header":{
+        "responseCode":"00000",
+        "responseMessage": "sucess"
+    },
+    "orderId":"0001",
+    "imageSrc":"",
+    "policyNo":"tyr0001234",
+    "insCompanyName":"中国太平",
+    "insCompanyEngName":"China taiping",
+    "insuranceTypeName":"境外旅游保险",
+    "policyPlanId":"",
+    "policyPlanName":"",
+    "iNSTermsLink":"",
+    "payDatetime":"",
+    "policyStartDate":"2016.12.12",
+    "policyEndDate":"2017.12.12",
+    "status":"0",
+    "payAmount":"999",
+    "firstName":"李",
+    "lastName":"某某",
+    "gender":"男",
+    "idCardType":"澳门居住身份证",
+    "idCardNo":"9998887766554433",
+    "birthDay":"1999.11.12",
+    "email":"12341345@163.com",
+    "insuredList":[
+        {"insuredId":"1","firstName":"李","lastName":"某某","gender":"男","idCardType":"澳门身份证","idCardNo":"5424267890876789778899", "birthDay":"1999.11.15","policyHolderRelationID":""},
+        {"insuredId":"2","firstName":"李","lastName":"某某某","gender":"男","idCardType":"澳门身份证","idCardNo":"5424267890876789778899", "birthDay":"1999.11.13","policyHolderRelationID":""},
+        {"insuredId":"3","firstName":"李","lastName":"某某","gender":"女","idCardType":"澳门身份证","idCardNo":"99954242678908767897788", "birthDay":"1999.11.11","policyHolderRelationID":""}
+    ]
+}

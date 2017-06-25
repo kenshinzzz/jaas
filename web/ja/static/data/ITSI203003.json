@@ -1,0 +1,14 @@
+{
+  "header":{
+    "responseCode":"00000",
+    "responseMessage": "sucess"
+  },
+  "netPremium": "120.50",
+  "currency": "澳門元",
+  "premium": "150.00",
+  "bankDiscount": "10.00",
+  "tax": "5.00",
+  "onlineDiscount": "5.00",
+  "upperAgeLimit": "75",
+  "childrenAgeLimit": "16"
+}
